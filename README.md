@@ -4,7 +4,7 @@ VSGA-CALCULATOR adalah aplikasi untuk perhitungan sederhana seperti (penjumlahan
 
 ## Jenis Aplikasi
 
-aplikasi ini berbasis web dan sudah berjalan di PHP terbaru
+Aplikasi ini berbasis web dan sudah berjalan di PHP terbaru
 
 ## Persyaratan
 
