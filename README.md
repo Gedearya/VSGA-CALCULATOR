@@ -2,6 +2,10 @@
 
 VSGA-CALCULATOR adalah aplikasi untuk perhitungan sederhana seperti (penjumlahan, pengurangan, perkalian, dan pembagian)
 
+## Screenshoot Aplikasi
+
+![calc](https://user-images.githubusercontent.com/75374189/220171213-0863518f-1340-4f65-931c-b94a28378cf6.jpg)
+
 ## Jenis Aplikasi
 
 Aplikasi ini berbasis web dan sudah berjalan di PHP terbaru
