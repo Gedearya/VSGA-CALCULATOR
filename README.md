@@ -18,7 +18,7 @@ Aplikasi ini berbasis web dan sudah berjalan di PHP terbaru
 
 ## Cara Instalasi
 
-1. Download Aplikasi VSGA-CALCULATOR pada salah link berikut: -https://github.com/Gedearya/VSGA-CALCULATOR
+1. Download Aplikasi VSGA-CALCULATOR pada link berikut: -https://github.com/Gedearya/VSGA-CALCULATOR
 2. Setelah berhasil di download, Ektrack File VSGA-CALCULATOR-main.zip dan pindahkan direktori htdocs
 
 ## Cara Menjalankan Aplikasi
